@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeightPrank</string>
+    <string name="for_finger_print">for finger print</string>
+    <string name="for_scan">for scan</string>
+    <string name="prank_message">Just for Fun</string>
+    <string name="inital_msg">PUT YOUR FINGER</string>
+    <string name="scan_message">Scanning..</string>
+    <string name="for_glow">for glow screen</string>
+</resources>
